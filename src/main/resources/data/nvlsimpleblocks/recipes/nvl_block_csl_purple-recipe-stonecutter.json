@@ -1,0 +1,8 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "item": "minecraft:purple_concrete"
+    },
+    "result": "nvlsimpleblocks:nvl_block_csl_purple",
+    "count": 2
+}

@@ -1,0 +1,8 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "item": "minecraft:red_terracotta"
+    },
+    "result": "nvlsimpleblocks:nvl_block_tsl_red",
+    "count": 2
+}

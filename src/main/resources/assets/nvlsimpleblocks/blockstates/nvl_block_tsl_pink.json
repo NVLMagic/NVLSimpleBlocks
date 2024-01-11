@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "nvlsimpleblocks:block/nvl_block_tsl_pink"
+    },
+    "type=double": {
+      "model": "minecraft:block/pink_terracotta"
+    },
+    "type=top": {
+      "model": "nvlsimpleblocks:block/nvl_block_tsl_pink_top"
+    }
+  }
+}

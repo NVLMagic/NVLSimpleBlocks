@@ -1,0 +1,8 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "item": "minecraft:yellow_concrete"
+    },
+    "result": "nvlsimpleblocks:nvl_block_csw_yellow",
+    "count": 1
+}

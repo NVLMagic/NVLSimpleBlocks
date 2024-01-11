@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "nvlsimpleblocks:block/nvl_block_csl_green"
+    },
+    "type=double": {
+      "model": "minecraft:block/green_concrete"
+    },
+    "type=top": {
+      "model": "nvlsimpleblocks:block/nvl_block_csl_green_top"
+    }
+  }
+}

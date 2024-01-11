@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "nvlsimpleblocks:nvl_block_csw_cyan"
+        }
+      ],
+      "rolls": 1.0
+    }
+  ],
+  "random_sequence": "nvlsimpleblocks:blocks/nvl_block_csw_cyan"
+}

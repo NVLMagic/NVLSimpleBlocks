@@ -1,0 +1,8 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "item": "minecraft:light_blue_terracotta"
+    },
+    "result": "nvlsimpleblocks:nvl_block_tst_light_blue",
+    "count": 1
+}

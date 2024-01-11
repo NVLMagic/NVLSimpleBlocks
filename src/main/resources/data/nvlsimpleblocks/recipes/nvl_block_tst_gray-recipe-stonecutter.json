@@ -1,0 +1,8 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "item": "minecraft:gray_terracotta"
+    },
+    "result": "nvlsimpleblocks:nvl_block_tst_gray",
+    "count": 1
+}

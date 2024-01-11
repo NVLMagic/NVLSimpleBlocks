@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "nvlsimpleblocks:block/nvl_block_csl_lime"
+    },
+    "type=double": {
+      "model": "minecraft:block/lime_concrete"
+    },
+    "type=top": {
+      "model": "nvlsimpleblocks:block/nvl_block_csl_lime_top"
+    }
+  }
+}

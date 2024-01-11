@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "nvlsimpleblocks:block/nvl_block_csl_magenta"
+    },
+    "type=double": {
+      "model": "minecraft:block/magenta_concrete"
+    },
+    "type=top": {
+      "model": "nvlsimpleblocks:block/nvl_block_csl_magenta_top"
+    }
+  }
+}

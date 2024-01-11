@@ -1,0 +1,8 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "item": "minecraft:magenta_concrete"
+    },
+    "result": "nvlsimpleblocks:nvl_block_csw_magenta",
+    "count": 1
+}

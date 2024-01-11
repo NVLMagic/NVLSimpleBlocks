@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "nvlsimpleblocks:block/nvl_block_csl_pink"
+    },
+    "type=double": {
+      "model": "minecraft:block/pink_concrete"
+    },
+    "type=top": {
+      "model": "nvlsimpleblocks:block/nvl_block_csl_pink_top"
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "item": "minecraft:black_concrete"
+    },
+    "result": "nvlsimpleblocks:nvl_block_csw_black",
+    "count": 1
+}

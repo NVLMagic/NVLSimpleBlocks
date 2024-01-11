@@ -1,0 +1,8 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "item": "minecraft:lime_concrete"
+    },
+    "result": "nvlsimpleblocks:nvl_block_csl_lime",
+    "count": 2
+}

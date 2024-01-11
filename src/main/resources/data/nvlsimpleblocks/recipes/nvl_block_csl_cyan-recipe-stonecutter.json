@@ -1,0 +1,8 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "item": "minecraft:cyan_concrete"
+    },
+    "result": "nvlsimpleblocks:nvl_block_csl_cyan",
+    "count": 2
+}

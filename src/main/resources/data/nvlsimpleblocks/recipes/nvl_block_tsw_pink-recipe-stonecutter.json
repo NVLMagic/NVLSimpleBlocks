@@ -1,0 +1,8 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "item": "minecraft:pink_terracotta"
+    },
+    "result": "nvlsimpleblocks:nvl_block_tsw_pink",
+    "count": 1
+}

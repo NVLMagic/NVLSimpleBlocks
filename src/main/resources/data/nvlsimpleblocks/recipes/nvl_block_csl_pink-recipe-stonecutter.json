@@ -1,0 +1,8 @@
+{
+    "type": "minecraft:stonecutting",
+    "ingredient": {
+        "item": "minecraft:pink_concrete"
+    },
+    "result": "nvlsimpleblocks:nvl_block_csl_pink",
+    "count": 2
+}
