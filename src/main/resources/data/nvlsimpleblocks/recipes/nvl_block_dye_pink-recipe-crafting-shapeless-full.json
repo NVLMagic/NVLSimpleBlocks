@@ -1,0 +1,36 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:pink_dye"
+        },
+        {
+            "item": "minecraft:pink_dye"
+        },
+        {
+            "item": "minecraft:pink_dye"
+        },
+        {
+            "item": "minecraft:pink_dye"
+        },
+        {
+            "item": "minecraft:pink_dye"
+        },
+        {
+            "item": "minecraft:pink_dye"
+        },
+        {
+            "item": "minecraft:pink_dye"
+        },
+        {
+            "item": "minecraft:pink_dye"
+        },
+        {
+            "item": "minecraft:pink_dye"
+        }
+    ],
+    "result": {
+        "item": "nvlsimpleblocks:nvl_block_dye_pink",
+        "count": 1
+    }	
+}

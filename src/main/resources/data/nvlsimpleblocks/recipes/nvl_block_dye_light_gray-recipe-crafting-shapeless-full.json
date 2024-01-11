@@ -1,0 +1,36 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:light_gray_dye"
+        },
+        {
+            "item": "minecraft:light_gray_dye"
+        },
+        {
+            "item": "minecraft:light_gray_dye"
+        },
+        {
+            "item": "minecraft:light_gray_dye"
+        },
+        {
+            "item": "minecraft:light_gray_dye"
+        },
+        {
+            "item": "minecraft:light_gray_dye"
+        },
+        {
+            "item": "minecraft:light_gray_dye"
+        },
+        {
+            "item": "minecraft:light_gray_dye"
+        },
+        {
+            "item": "minecraft:light_gray_dye"
+        }
+    ],
+    "result": {
+        "item": "nvlsimpleblocks:nvl_block_dye_light_gray",
+        "count": 1
+    }	
+}

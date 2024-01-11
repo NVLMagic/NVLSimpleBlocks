@@ -1,0 +1,36 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:brown_dye"
+        },
+        {
+            "item": "minecraft:brown_dye"
+        },
+        {
+            "item": "minecraft:brown_dye"
+        },
+        {
+            "item": "minecraft:brown_dye"
+        },
+        {
+            "item": "minecraft:brown_dye"
+        },
+        {
+            "item": "minecraft:brown_dye"
+        },
+        {
+            "item": "minecraft:brown_dye"
+        },
+        {
+            "item": "minecraft:brown_dye"
+        },
+        {
+            "item": "minecraft:brown_dye"
+        }
+    ],
+    "result": {
+        "item": "nvlsimpleblocks:nvl_block_dye_brown",
+        "count": 1
+    }	
+}

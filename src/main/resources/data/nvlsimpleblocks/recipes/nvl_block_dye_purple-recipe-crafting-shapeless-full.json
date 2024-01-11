@@ -1,0 +1,36 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:purple_dye"
+        },
+        {
+            "item": "minecraft:purple_dye"
+        },
+        {
+            "item": "minecraft:purple_dye"
+        },
+        {
+            "item": "minecraft:purple_dye"
+        },
+        {
+            "item": "minecraft:purple_dye"
+        },
+        {
+            "item": "minecraft:purple_dye"
+        },
+        {
+            "item": "minecraft:purple_dye"
+        },
+        {
+            "item": "minecraft:purple_dye"
+        },
+        {
+            "item": "minecraft:purple_dye"
+        }
+    ],
+    "result": {
+        "item": "nvlsimpleblocks:nvl_block_dye_purple",
+        "count": 1
+    }	
+}

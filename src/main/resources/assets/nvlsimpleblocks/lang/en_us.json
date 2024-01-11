@@ -99,5 +99,21 @@
 	"block.nvlsimpleblocks.nvl_block_csw_blue": "Blue Concrete Wall",
 	"block.nvlsimpleblocks.nvl_block_csw_purple": "Purple Concrete Wall",
 	"block.nvlsimpleblocks.nvl_block_csw_magenta": "Magenta Concrete Wall",
-	"block.nvlsimpleblocks.nvl_block_csw_pink": "Pink Concrete Wall"	
+	"block.nvlsimpleblocks.nvl_block_csw_pink": "Pink Concrete Wall",
+	"block.nvlsimpleblocks.nvl_block_dye_black": "Black Dye Block",
+	"block.nvlsimpleblocks.nvl_block_dye_white": "White Dye Block",
+	"block.nvlsimpleblocks.nvl_block_dye_brown": "Brown Dye Block",
+	"block.nvlsimpleblocks.nvl_block_dye_gray": "Gray Dye Block",
+	"block.nvlsimpleblocks.nvl_block_dye_light_gray": "Light Gray Dye Block",
+	"block.nvlsimpleblocks.nvl_block_dye_red": "Red Dye Block",
+	"block.nvlsimpleblocks.nvl_block_dye_orange": "Orange Dye Block",
+	"block.nvlsimpleblocks.nvl_block_dye_yellow": "Yellow Dye Block",
+	"block.nvlsimpleblocks.nvl_block_dye_lime": "Lime Dye Block",
+	"block.nvlsimpleblocks.nvl_block_dye_green": "Green Dye Block",
+	"block.nvlsimpleblocks.nvl_block_dye_cyan": "Cyan Dye Block",
+	"block.nvlsimpleblocks.nvl_block_dye_light_blue": "Light Blue Dye Block",
+	"block.nvlsimpleblocks.nvl_block_dye_blue": "Blue Dye Block",
+	"block.nvlsimpleblocks.nvl_block_dye_purple": "Purple Dye Block",
+	"block.nvlsimpleblocks.nvl_block_dye_magenta": "Magenta Dye Block",
+	"block.nvlsimpleblocks.nvl_block_dye_pink": "Pink Dye Block"
 }

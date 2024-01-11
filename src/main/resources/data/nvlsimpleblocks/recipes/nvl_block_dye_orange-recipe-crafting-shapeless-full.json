@@ -1,0 +1,36 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:orange_dye"
+        },
+        {
+            "item": "minecraft:orange_dye"
+        },
+        {
+            "item": "minecraft:orange_dye"
+        },
+        {
+            "item": "minecraft:orange_dye"
+        },
+        {
+            "item": "minecraft:orange_dye"
+        },
+        {
+            "item": "minecraft:orange_dye"
+        },
+        {
+            "item": "minecraft:orange_dye"
+        },
+        {
+            "item": "minecraft:orange_dye"
+        },
+        {
+            "item": "minecraft:orange_dye"
+        }
+    ],
+    "result": {
+        "item": "nvlsimpleblocks:nvl_block_dye_orange",
+        "count": 1
+    }	
+}

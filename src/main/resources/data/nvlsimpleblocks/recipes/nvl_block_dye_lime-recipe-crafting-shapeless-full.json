@@ -1,0 +1,36 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:lime_dye"
+        },
+        {
+            "item": "minecraft:lime_dye"
+        },
+        {
+            "item": "minecraft:lime_dye"
+        },
+        {
+            "item": "minecraft:lime_dye"
+        },
+        {
+            "item": "minecraft:lime_dye"
+        },
+        {
+            "item": "minecraft:lime_dye"
+        },
+        {
+            "item": "minecraft:lime_dye"
+        },
+        {
+            "item": "minecraft:lime_dye"
+        },
+        {
+            "item": "minecraft:lime_dye"
+        }
+    ],
+    "result": {
+        "item": "nvlsimpleblocks:nvl_block_dye_lime",
+        "count": 1
+    }	
+}
