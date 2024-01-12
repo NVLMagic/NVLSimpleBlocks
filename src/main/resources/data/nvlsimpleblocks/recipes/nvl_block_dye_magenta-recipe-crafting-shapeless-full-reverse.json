@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "nvlsimpleblocks:nvl_block_dye_magenta"
+        }
+    ],
+    "result": {
+        "item": "minecraft:magenta_dye",
+        "count": 9
+    }	
+}

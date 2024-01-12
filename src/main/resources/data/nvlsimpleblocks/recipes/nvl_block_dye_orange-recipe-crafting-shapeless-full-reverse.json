@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "nvlsimpleblocks:nvl_block_dye_orange"
+        }
+    ],
+    "result": {
+        "item": "minecraft:orange_dye",
+        "count": 9
+    }	
+}
